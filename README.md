@@ -1,13 +1,17 @@
 # Desafio_01
-Desafio 01 - FAST-Transição - C.E.S.A.R School
-Consiste em um sistema simples feito na linguagem python utilizando o Google Colab.
+## Desafio 01 - FAST-Transição - C.E.S.A.R School
+Consiste em um sistema simples de registro de alunos feito na linguagem python, utilizando o Google Colab, com algumas funcionalidades, a saber:
 
-Trata-se de um sistema de registro de alunos com algumas funcionalidades, a saber:
+1.Adicionar um novo registro de estudante
 
-Adicionar um novo registro de estudante
-Exibir lista de registros de estudantes
-Procurar um estudante por ID
-Calcular a média de notas de todos os estudantes
-Salvar registros de estudantes em um arquivo
-Carregar registros de estudantes de um arquivo
-Sair
+2.Exibir lista de registros de estudantes
+
+3.Procurar um estudante por ID
+
+4.Calcular a média de notas de todos os estudantes
+
+5.Salvar registros de estudantes em um arquivo
+
+6.Carregar registros de estudantes de um arquivo
+
+7.Sair
